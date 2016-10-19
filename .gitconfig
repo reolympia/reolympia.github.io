@@ -1,0 +1,5 @@
+[user]
+        name = Richee
+        email = [omitted]
+[merge]
+        tool = vimdiff

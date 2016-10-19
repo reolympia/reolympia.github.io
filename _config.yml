@@ -1,0 +1,20 @@
+# Site settings
+title: Re:Olympia
+header-img: img/home-bg.jpg
+email: admin@reolympia.com
+description: "Random information regarding Olympia, WA"
+baseurl: ""
+url: "https://reolympia.com"
+#twitter_username: SBootstrap
+#github_username:  davidtmiller
+#facebook_username:  IronSummitMedia
+#email_username:  your-email@yourdomain.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
