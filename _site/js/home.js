@@ -2,23 +2,13 @@
 
 
 // Get local news from The Olympian
-var theOlympianURL = 'http://www.theolympian.com/news/local/?widgetName=rssfeed&widgetContentId=712015';
-var idxa = 1;
+var theOlympianURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.theolympian.com%2Fnews%2Flocal%2F%3FwidgetName%3Drssfeed%26widgetContentId%3D712015';
 $.get(theOlympianURL, function (data) {
-    $(data).find("item").each(function () { // or "item" or whatever suits your feed
+    $(data.items).each(function (i, post) { // or "item" or whatever suits your feed
         var el = $(this);
         var story = new Object();
-
-        story.title = el.find("title").text();
-        story.link = el.find("guid").text();
-        story.date = el.find("pubDate").text();
-		story.desc = el.find("description").contents();
-		story.desc = story.desc[0].textContent;
-		story.desc = story.desc.replace('[CDATA[','');
-		story.desc = story.desc.replace(/<a href.*/, '');
-	    $('.theOlympian').append('<a href="'+story.link+'" class="list-group-item">'+story.title+'</a>');
-		idxa++;
-		if (idxa > 5) {
+	    $('.theOlympian').append('<a href="'+post.link+'" class="list-group-item">'+post.title+'</a>');
+		if (i > 3) {
 			return false; // limit to 5 stories
 		}
         // console.log("------------------------");
@@ -36,8 +26,7 @@ var idxb = 1;
 $.getJSON( redditURL, function foo(data) {
 	$.each(data.data.children.slice(0, 10), function (i, post) {
 	    $('.reddit').append('<a href="http://reddit.com'+post.data.permalink+'" class="list-group-item">'+post.data.title+'</a>');
-		idxb++;
-		if (idxb > 5) {
+		if (i > 3) {
 			return false; // limit to 5 stories
 		}
 		// $("#reddit").append( '<a href="'+post.data.url+'"">'+post.data.title+'</a><br>');
@@ -65,29 +54,25 @@ window.twttr = (function(d, s, id) {
 
 
 // Get City of Olympia News
-var rssURL = 'http://rss2json.com/api.json?rss_url=http%3A%2F%2Folympiawa.gov%2FRSS%2Fnews-releases.aspx';
-var idxc = 1;
+var rssURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Folympiawa.gov%2FRSS%2Fnews-releases.aspx';
 $.getJSON( rssURL, function foo(data) {
 	$.each(data.items, function (i, post) {
 		var title = post.link.replace('http://olympiawa.gov/news-and-faq-s/news-releases/', '');
 		title = title.replace('.aspx', '');
 		title = title.replace('-', ' ');
 	    $('.cityNews').append('<a href="'+post.link+'" class="list-group-item">'+title+'</a>');
-		idxc++;
-		if (idxc > 5) {
+		if (i > 3) {
 			return false; // limit to 5 stories
 		}
 	});
 });
 
 // Get Thurston Talk
-var rssURL = 'http://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.thurstontalk.com%2Ffeed%2F';
-var idxd = 1;
+var rssURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.thurstontalk.com%2Ffeed%2F';
 $.getJSON( rssURL, function foo(data) {
 	$.each(data.items, function (i, post) {
 	    $('.thurstonTalk').append('<a href="'+post.link+'" class="list-group-item">'+post.title+'</a>');
-		idxd++;
-		if (idxd > 5) {
+		if (i > 3) {
 			return false; // limit to 5 stories
 		}
 	});
