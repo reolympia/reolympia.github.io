@@ -6,13 +6,55 @@ js: home.js
 ---
 
 <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12">
+
+
+        <div class="panel panel-default">
+            <div class="panel-heading"><strong><a href="http://www.theolympian.com"><img class="pull-left" src="/img/theOlympian.png" width="200px"> &nbsp; Latest Stories</a></strong></div>
+            <ul class="list-group">
+                <span class="theOlympian"></span>
+            </ul>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading"><strong><a href="http://reddit.com/r/olympia"><img class="pull-left" src="/img/redditlogo.png" width="75px"> &nbsp; Latest Stories</a></strong></div>
+            <ul class="list-group">
+                <span class="reddit"></span>
+            </ul>
+        </div>
+
+
+        <div class="panel panel-default">
+            <div class="panel-heading"><strong><a href="http://www.thurstontalk.com/">Thurston Talk</a></strong></div>
+            <ul class="list-group">
+                <span class="thurstonTalk"></span>
+            </ul>
+        </div>
+
+
+        <div class="panel panel-default">
+            <div class="panel-heading"><strong><a href="http://olympiawa.gov/news-and-faq-s/news-releases.aspx">City of Olympia News Releases</a></strong></div>
+            <ul class="list-group">
+                <span class="cityNews"></span>
+            </ul>
+        </div>
+
+
+
+
+
+
+    </div>
+
+    <!-- ##################################################### -->
+
+    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
 
         <div class="row">
             
             <div class="col-lg-4 col-md-4">
-                <h1 id="temp">77&deg; F</h1>
-                <div id="icon"></div>
+                <h1 id="temp">0&deg; F</h1>
+                <div id="icon">Unable to fetch weather.</div>
                 <div id="forecast"></div>
             </div>
             <div class="col-lg-8 col-md-8">                
@@ -31,49 +73,11 @@ js: home.js
 
 
         <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://www.theolympian.com"><img class="pull-left" src="/img/theOlympian.png" width="200px"> &nbsp; Latest Stories</a></strong></div>
-            <ul class="list-group">
-                <span class="theOlympian"></span>
-            </ul>
-        </div>
-
-        <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://olympiawa.gov/news-and-faq-s/news-releases.aspx">City of Olympia News Releases</a></strong></div>
-            <ul class="list-group">
-                <span class="cityNews"></span>
-            </ul>
-        </div>
-
-
-
-        <div class="panel panel-default">
             <div class="panel-heading"><strong><a href="/blog">Re:Olympia Blog</a></strong></div>
             <ul class="list-group">
                 {% for post in site.posts %}
                     <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item">{{ post.title }}</a>
                 {% endfor %}
-            </ul>
-        </div>
-
-        <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://www.wsdot.com/traffic/olympia/default.aspx">Traffic Conditions</a></strong></div>
-            <ul class="list-group">
-                    <div class="list-group-item"><img src="http://images.wsdot.wa.gov/orflow/005vc10480.jpg"></div>
-                    <div class="list-group-item"><img src="http://images.wsdot.wa.gov/orflow/Olyvc00c01.jpg"></div>
-                    <div class="list-group-item"><img src="http://images.wsdot.wa.gov/orflow/005vc10835.jpg"></div>
-            </ul>
-        </div>
-
-
-    </div>
-
-    <!-- ##################################################### -->
-
-    <div class="col-lg-6 col-md-6">
-        <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://reddit.com/r/olympia"><img class="pull-left" src="/img/redditlogo.png" width="75px"> &nbsp; Latest Stories</a></strong></div>
-            <ul class="list-group">
-                <span class="reddit"></span>
             </ul>
         </div>
 
@@ -83,12 +87,21 @@ js: home.js
         Tweets from https://twitter.com/richeee/lists/first-responders
         </a>
 
-        <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://www.thurstontalk.com/">Thurston Talk</a></strong></div>
-            <ul class="list-group">
-                <span class="thurstonTalk"></span>
-            </ul>
-        </div>
+    </div>
+</div>
+   
+
+    <a href="http://www.wsdot.com/traffic/olympia/default.aspx?_ga=1.62372908.1232497487.1476917938">Local Traffic Conditions</a>
+
+<div class="row">
+    <div class="col-lg-4 col-md-4"> 
+        <img src="http://images.wsdot.wa.gov/orflow/005vc10480.jpg">
+    </div>
+    <div class="col-lg-4 col-md-4"> 
+        <img src="http://images.wsdot.wa.gov/orflow/Olyvc00c01.jpg">
+    </div>
+    <div class="col-lg-4 col-md-4"> 
+        <img src="http://images.wsdot.wa.gov/orflow/005vc10835.jpg">
 
 
     </div>
