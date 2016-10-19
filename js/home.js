@@ -77,3 +77,39 @@ $.getJSON( rssURL, function foo(data) {
 		}
 	});
 });
+
+// Get weather
+
+$.ajax({
+    url : "http://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP8.json",
+    dataType : "jsonp",
+    success : function(parsed_json) {
+        var temp = parsed_json['current_observation']['temp_f'];
+        var icon = parsed_json['current_observation']['icon_url'];
+        var iconName = parsed_json['current_observation']['weather'];
+        var winddir = parsed_json['current_observation']['wind_dir'];
+        var windspeed = parsed_json['current_observation']['wind_mph'];
+        var dew = parsed_json['current_observation']['dewpoint_f'];
+        var hum = parsed_json['current_observation']['relative_humidity'];
+        var rainrate = parsed_json['current_observation']['precip_1hr_in'];
+        var rainaccum = parsed_json['current_observation']['precip_today_in'];
+        var pressure = parsed_json['current_observation']['pressure_in'];
+        var uv = parsed_json['current_observation']['UV'];
+        var vis = parsed_json['current_observation']['visibility_mi'];
+        var forecast = parsed_json['current_observation']['forecast_url'];
+        var obtime = parsed_json['current_observation']['observation_time'];
+        $('#temp').html(temp + "&deg; F");
+        $('#icon').html(iconName+"<br><img src='"+icon+"'>");
+        $('#winddir').html(winddir);
+        $('#windspeed').html(windspeed + " mph");
+        $('#dew').html(dew + "&deg; F");
+        $('#hum').html(hum);
+        $('#rainrate').html(rainrate + "\" last 1 hr");
+        $('#rainaccum').html(rainaccum + "\" last 24 hrs");
+        $('#pressure').html(pressure + " in.");
+        $('#uv').html(uv);
+        $('#vis').html(vis+" mi.");
+        $('#forecast').html("<a href='"+forecast+"'>Forecast</a>");
+        $('#obtime').html(obtime);
+    }
+});

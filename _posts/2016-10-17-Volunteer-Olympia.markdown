@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Volunteer Olympia"
+title:      "Volunteer in Olympia"
 subtitle:   "Ways to give back to the community"
 date:       2016-10-17 12:00:00
 author:     "Richee"
