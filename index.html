@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Re:Olympia"
-description: "What's Going On in Olympia Washington?"
+description: "What's Going On in Olympia WA?"
 js: home.js
 ---
 
@@ -10,30 +10,30 @@ js: home.js
 
 
         <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://www.theolympian.com"><img class="pull-left" src="/img/theOlympian.png" width="200px"> &nbsp; Latest Stories</a></strong></div>
+            <div class="panel-heading"><strong><a href="http://www.theolympian.com"><img class="pull-left" src="/img/theOlympian.png" width="200px">&nbsp;</a></strong></div>
             <ul class="list-group">
                 <span class="theOlympian"></span>
             </ul>
         </div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://reddit.com/r/olympia"><img class="pull-left" src="/img/redditlogo.png" width="75px"> &nbsp; Latest Stories</a></strong></div>
-            <ul class="list-group">
-                <span class="reddit"></span>
-            </ul>
-        </div>
 
 
         <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://www.thurstontalk.com/">Thurston Talk</a></strong></div>
+            <div class="panel-heading"><strong><a href="http://www.thurstontalk.com/"><img class="pull-left" src="/img/thurstontalk.png" width="100px">&nbsp;</a></strong></div>
             <ul class="list-group">
                 <span class="thurstonTalk"></span>
             </ul>
         </div>
 
+        <div class="panel panel-default">
+            <div class="panel-heading"><strong><a href="http://reddit.com/r/olympia"><img class="pull-left" src="/img/redditlogo.png" width="80px">&nbsp;</a></strong></div>
+            <ul class="list-group">
+                <span class="reddit"></span>
+            </ul>
+        </div>
 
         <div class="panel panel-default">
-            <div class="panel-heading"><strong><a href="http://olympiawa.gov/news-and-faq-s/news-releases.aspx">City of Olympia News Releases</a></strong></div>
+            <div class="panel-heading"><strong><a href="http://olympiawa.gov/news-and-faq-s/news-releases.aspx"><img class="pull-left" src="/img/citylogo.png" width="30px"> &nbsp; City of Olympia News Releases</a></strong></div>
             <ul class="list-group">
                 <span class="cityNews"></span>
             </ul>
@@ -52,13 +52,17 @@ js: home.js
 
         <div class="row">
             
-            <div class="col-lg-4 col-md-4">
-                <h1 id="temp">0&deg; F</h1>
-                <div id="icon">Unable to fetch weather.</div>
-                <div id="forecast"></div>
-            </div>
-            <div class="col-lg-8 col-md-8">                
+            <div class="col-lg-12 col-md-12">
+
                 <table class="table">
+                <thead>
+                    <tr>
+                        <th><h2><font size="7" id="temp">0&deg; F</font></h2></th>
+                        <th><span id="icon">Checking weather.</span>
+                            <span id="forecast"></span>
+                        </th>
+                    </tr>
+                </thead>
                 <tbody>
                     <tr><td>Wind from the:</td><td id="winddir"></td></tr>
                     <tr><td>Wind speed:</td><td id="windspeed"></td></tr>
@@ -91,8 +95,7 @@ js: home.js
 </div>
    
 
-    <a href="http://www.wsdot.com/traffic/olympia/default.aspx?_ga=1.62372908.1232497487.1476917938">Local Traffic Conditions</a>
-
+<a href="http://www.wsdot.com/traffic/olympia/default.aspx?_ga=1.62372908.1232497487.1476917938">Local Traffic Conditions</a>
 <div class="row">
     <div class="col-lg-4 col-md-4"> 
         <img src="http://images.wsdot.wa.gov/orflow/005vc10480.jpg">
@@ -102,8 +105,35 @@ js: home.js
     </div>
     <div class="col-lg-4 col-md-4"> 
         <img src="http://images.wsdot.wa.gov/orflow/005vc10835.jpg">
-
-
     </div>
 </div>
+
+<br>
+
+<div class="row">
+    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+        <a href="https://twitter.com/search?q=%23olywa&src=typd" class="thumbnail">
+            <img src="/img/twitter.png" alt="twitter">
+        </a>
+    </div> 
+    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+        <a href="https://seattle.craigslist.org/oly/" class="thumbnail">
+            <img src="/img/craigslist.png" alt="craigslist">
+        </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+        <a href="http://careers.wa.gov/" class="thumbnail">
+            <img src="/img/careers.png" alt="careers">
+        </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+        <a href="http://olyarts.org/" class="thumbnail">
+            <img src="/img/olyarts.png" alt="oly arts">
+        </a>
+    </div>
+</div>
+
+
+
+
 

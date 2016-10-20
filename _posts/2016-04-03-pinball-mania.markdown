@@ -33,11 +33,11 @@ All these pinballs are 50 cents to play.
 <img alt="Adams Family" src="/img/20151029_195022.jpg">
 [The 4th Avenue Tavern](https://www.google.com/maps/place/Fourth+Avenue+Tavern,+210+4th+Ave+E,+Olympia,+WA+98501,+United+States/@47.0451196,-122.8998201,19z/data=!4m6!1m3!3m2!1s0x5491751becb46ee5:0xd16d10ef5605dad8!2sBrotherhood+Tavern,+119+Capitol+Way+N,+Olympia,+WA+98501,+United+States!3m1!1s0x5491751bff08ea89:0xf7aec548e47915d3?force=lite&hl=en) has one of my favorites, The Adams Family, which I'm happy playing for hours. They also have one called Getaway. 
 
-## Old School Pizzaria
+## Old School Pizzeria
 <img alt="Roadshow" src="/img/20151029_195553.jpg" style="float:left; padding-right:20px;">
 <img alt="Hook" src="/img/20151029_195558.jpg" style="float:left; padding-right:20px;">
 <img alt="Whirlwind" src="/img/20151029_195610.jpg">
-[Old School Pizzaria](https://www.google.com/maps/place/Old+School+Pizzeria,+108+Franklin+St+NE,+Olympia,+WA+98501/@47.0451196,-122.8998201,19z/data=!4m6!1m3!3m2!1s0x5491751becb46ee5:0xd16d10ef5605dad8!2sBrotherhood+Tavern,+119+Capitol+Way+N,+Olympia,+WA+98501,+United+States!3m1!1s0x5491751eacadff41:0x212af52cf3f3c5e?force=lite&hl=en) is a family fun place that has not only 3 pinball machines, but 4 other arcade games too. Their games are Road Show, Hook, and Whirlwind. The only complaint I have about their games though is they don't feel very level and are a little cramped.
+[Old School Pizzeria](https://www.google.com/maps/place/Old+School+Pizzeria,+108+Franklin+St+NE,+Olympia,+WA+98501/@47.0451196,-122.8998201,19z/data=!4m6!1m3!3m2!1s0x5491751becb46ee5:0xd16d10ef5605dad8!2sBrotherhood+Tavern,+119+Capitol+Way+N,+Olympia,+WA+98501,+United+States!3m1!1s0x5491751eacadff41:0x212af52cf3f3c5e?force=lite&hl=en) is a family fun place that has not only 3 pinball machines, but 4 other arcade games too. Their games are Road Show, Hook, and Whirlwind. The only complaint I have about their games though is they don't feel very level and are a little cramped.
 
 ## Eagen's
 I haven't had a chance to go there yet but I hear Eagan's has a pinball.

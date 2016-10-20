@@ -1,6 +1,5 @@
 
 
-
 // Get local news from The Olympian
 var theOlympianURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.theolympian.com%2Fnews%2Flocal%2F%3FwidgetName%3Drssfeed%26widgetContentId%3D712015';
 $.get(theOlympianURL, function (data) {
@@ -99,7 +98,7 @@ $.ajax({
         var forecast = parsed_json['current_observation']['forecast_url'];
         var obtime = parsed_json['current_observation']['observation_time'];
         $('#temp').html(temp + "&deg; F");
-        $('#icon').html(iconName+"<br><img src='"+icon+"'>");
+        $('#icon').html(iconName+" <img src='"+icon+"'>");
         $('#winddir').html(winddir);
         $('#windspeed').html(windspeed + " mph");
         $('#dew').html(dew + "&deg; F");
