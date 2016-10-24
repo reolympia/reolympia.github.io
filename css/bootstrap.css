@@ -5003,7 +5003,6 @@ a.badge:focus {
 }
 .thumbnail {
   display: block;
-  cursor: pointer;
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
@@ -5018,18 +5017,15 @@ a.badge:focus {
 .thumbnail a > img {
   margin-right: auto;
   margin-left: auto;
-  cursor:pointer;
 }
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
   border-color: #337ab7;
-  cursor:pointer;
 }
 .thumbnail .caption {
   padding: 9px;
   color: #333;
-  cursor:pointer;
 }
 .alert {
   padding: 15px;

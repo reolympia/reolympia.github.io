@@ -102,7 +102,7 @@ if (!dev) {
 
 	// Get City of Olympia News
 	// var rssURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Folympiawa.gov%2FRSS%2Fnews-releases.aspx';
-	var rssURL = 'http://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ffeedity.com%2Folympiawa-gov%2FW1tVW1NR.rss';
+	var rssURL = 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ffeedity.com%2Folympiawa-gov%2FW1tVW1NR.rss';
 	$.getJSON( rssURL, function foo(data) {
 		var stories = data.items.reverse();
 		$.each(stories, function (i, post) {
