@@ -28,13 +28,10 @@ if (!dev) {
 	// Get local news from The Olympian
 	var theOlympianURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.theolympian.com%2Fnews%2Flocal%2F%3FwidgetName%3Drssfeed%26widgetContentId%3D712015';
 	$.get(theOlympianURL, function (data) {
-	    $(data.items).each(function (i, post) { // or "item" or whatever suits your feed
+	    $(data.items.slice(0,5)).each(function (i, post) { // or "item" or whatever suits your feed
 	        var el = $(this);
 	        var story = new Object();
 		    $('.theOlympian').append('<a href="'+post.link+'" class="list-group-item">'+post.title+'</a>');
-			if (i > 3) {
-				return false; // limit to 5 stories
-			}
 	    });
 	});
 
@@ -104,13 +101,17 @@ if (!dev) {
 
 
 	// Get City of Olympia News
-	var rssURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Folympiawa.gov%2FRSS%2Fnews-releases.aspx';
+	// var rssURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Folympiawa.gov%2FRSS%2Fnews-releases.aspx';
+	var rssURL = 'http://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ffeedity.com%2Folympiawa-gov%2FW1tVW1NR.rss';
 	$.getJSON( rssURL, function foo(data) {
-		$.each(data.items, function (i, post) {
-			var title = post.link.replace('http://olympiawa.gov/news-and-faq-s/news-releases/', '');
-			title = title.replace('.aspx', '');
-			title = title.replace('-', ' ');
-		    $('.cityNews').append('<a href="'+post.link+'" class="list-group-item">'+title+'</a>');
+		var stories = data.items.reverse();
+		$.each(stories, function (i, post) {
+
+			// var title = post.link.replace('http://olympiawa.gov/news-and-faq-s/news-releases/', '');
+			// title = title.replace('.aspx', '');
+			// title = title.replace('-', ' ');
+		    // $('.cityNews').append('<a href="'+post.link+'" class="list-group-item">'+title+'</a>');
+		   	$('.cityNews').append('<a href="'+post.guid+'" class="list-group-item">'+post.title+'</a>');
 			if (i > 3) {
 				return false; // limit to 5 stories
 			}
@@ -120,11 +121,8 @@ if (!dev) {
 	// Get Thurston Talk
 	var rssURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.thurstontalk.com%2Ffeed%2F';
 	$.getJSON( rssURL, function foo(data) {
-		$.each(data.items, function (i, post) {
+		$.each(data.items.slice(0,5), function (i, post) {
 		    $('.thurstonTalk').append('<a href="'+post.link+'" class="list-group-item">'+post.title+'</a>');
-			if (i > 3) {
-				return false; // limit to 5 stories
-			}
 		});
 	});
 
