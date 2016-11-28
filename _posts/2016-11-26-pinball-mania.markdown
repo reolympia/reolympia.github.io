@@ -9,9 +9,11 @@ comments: 	true
 ---
 My favorite arcade game has always been pinball. It probably comes from growing up with that [Sesame Street pinball cartoon](https://www.youtube.com/watch?v=VOaZbaPzdsk) that taught me to count to 12.
 
-Did you know there are 5 establishments in downtown Olympia that have pinball machines in them? Here is your map to having a pinball night on the town.
+Did you know there are 6 establishments in downtown Olympia that have pinball machines in them? Here is your flipper finder map to having a pinball night on the town.
 
-All these pinballs are 50 cents to play.
+<img alt="Olympia Pinball Map" src="/img/pinball/pinball-map.png">
+
+All these pinballs are 50 cents to play. Except Hannah's, they charge $1 per play
 
 ## Jakes
 <img alt="Metallica" src="/img/pinball/20160225_182053.jpg">
