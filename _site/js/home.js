@@ -1,4 +1,4 @@
-var dev = true;
+var dev = false;
 
 // https://rss2json.com/api.json?rss_url=http%3A%2F%2Fcapitolympia.tumblr.com%2Frss
 // https://rss2json.com/api.json?rss_url=http%3A%2F%2Folyblog.net%2Frss.xml
@@ -68,7 +68,7 @@ if (!dev) {
 		});
 		stories.sort(compare_created_date);
 		$.each(stories.slice(0, 5), function (i, post) {
-		    $('.reddit').append('<a href="http://reddit.com'+post.permalink+'" class="list-group-item">'+post.title+'<span class="label label-default pull-right">/r/'+post.subreddit+'</span></a> ');
+		    $('.reddit').append('<a href="http://reddit.com'+post.permalink+'" class="list-group-item" style="width: 100%; display: inline-block; word-wrap: break-word;">'+post.title+'<span class="label label-default pull-right" style="">/r/'+post.subreddit+'</span></a> ');
 		});
 
 	});

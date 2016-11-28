@@ -12,7 +12,7 @@ Hi! I'm Richee, and welcome to my blog where I will discuss all kinds of things 
 Over time I may have opinions about this great town or just want to share some funny story or art with everyone too. We'll see!
 
 ## The Home Page
-The home page of most blogs are boring and list the latest post. The front page for [ReOlympia](https://reolympia.com) aims to display recent events and news from around town. It's something I personally check every day to see what's going on and maybe other people will find it useful too.
+The home page of most blogs are boring and list the latest post. The front page for [Re:Olympia](https://reolympia.com) aims to display recent events and news from around town. It's something I personally check every day to see what's going on and maybe other people will find it useful too.
 
 
 ## But Aren't There Already Local Bloggers?
