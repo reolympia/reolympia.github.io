@@ -19,16 +19,6 @@ var dev = true;
 // http://kenbalsley.com/feed/
 
 
-// 31d038c185d998ed77dbda9a6322267a
-
-var theUrl = 'https://g2reader.com/api/1/user/authorize';
-
-$.post( theUrl, { email: "reolympia@protonmail.com", password: "cccptamt3mp", client_key: "xDWHb-tNunW-9M5Wo-7ZOnh-YfNdM" })
-  .done(function( data ) {
-    alert( "Data Loaded: " + data );
-  });
-
-
 if (!dev) {
 
 	// Get local news from The Olympian
