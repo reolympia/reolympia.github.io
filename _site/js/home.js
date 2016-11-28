@@ -1,4 +1,4 @@
-var dev = false;
+var dev = true;
 
 // https://rss2json.com/api.json?rss_url=http%3A%2F%2Fcapitolympia.tumblr.com%2Frss
 // https://rss2json.com/api.json?rss_url=http%3A%2F%2Folyblog.net%2Frss.xml
@@ -21,6 +21,12 @@ var dev = false;
 
 // 31d038c185d998ed77dbda9a6322267a
 
+var theUrl = 'https://g2reader.com/api/1/user/authorize';
+
+$.post( theUrl, { email: "reolympia@protonmail.com", password: "cccptamt3mp", client_key: "xDWHb-tNunW-9M5Wo-7ZOnh-YfNdM" })
+  .done(function( data ) {
+    alert( "Data Loaded: " + data );
+  });
 
 
 if (!dev) {
