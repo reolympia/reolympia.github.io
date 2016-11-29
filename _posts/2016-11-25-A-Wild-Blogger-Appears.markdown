@@ -6,18 +6,16 @@ date:       2016-11-25 12:00:00
 author:     "Richee"
 header-img: "img/post-bg-01.jpg"
 ---
-## I Started a Blog!
-Hi! I'm Richee, and welcome to my blog where I will discuss all kinds of things relating to Olympia. What will I write about? I find Olympia full of resources but sometimes hard to find them. I'm going to do my best to compile and organize information about Olympia. This may be things such as the [location of every pinball machine in Olympia](/pinball-mania/) or a large [list of places to volunteer in Olympia](/Volunteer-Olympia/). 
+## Re:Olympia Blog
+Hi! Welcome to the Re:Olympia blog. I'm Richee. The Re:Olympia front page offers aggregated local news, events, and other content. Here in the blog, I'll dive into other Olympia finds and curiosities. 
 
-Over time I may have opinions about this great town or just want to share some funny story or art with everyone too. We'll see!
-
-## The Home Page
-The home page of most blogs are boring and list the latest post. The front page for [Re:Olympia](https://reolympia.com) aims to display recent events and news from around town. It's something I personally check every day to see what's going on and maybe other people will find it useful too.
+Want to learn more about something in particular? <a href="mailto:richee@beebin.com">Let me know</a>. 
 
 
-## But Aren't There Already Local Bloggers?
 
-Yes! Olympia does have quite a few. Here is a list of some of them:
+## Aren't There Already Local Bloggers?
+
+Yes! Olympia does have quite a few:
 
 * [http://capitolympia.tumblr.com](http://capitolympia.tumblr.com)
 * [http://olyblog.net](http://olyblog.net)
