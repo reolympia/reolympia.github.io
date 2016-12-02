@@ -122,8 +122,18 @@ if (!dev) {
 		});
 	});
 
-	// Get weather
+	// Inspections
+	var rssURL = 'https://api.rss2json.com/v1/api.json?rss_url=http%3A%2F%2Fwww.theolympian.com%2Fliving%2Ffood-drink%2F%3FwidgetName%3Drssfeed%26widgetContentId%3D23920939%26getXmlFeed%3Dtrue';
+	$.getJSON( rssURL, function foo(data) {
+		$.each(data.items.slice(0,5), function (i, post) {
+			if (post.title.startsWith("Restaurant inspection")) {
+		   		$('.healthreview').append('<a href="'+post.link+'" class="list-group-item">'+post.title+'</a>');
+			}
+		});
+	});	
 
+
+	// Get weather
 	$.ajax({
 	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP73.json",
 	    dataType : "jsonp",
