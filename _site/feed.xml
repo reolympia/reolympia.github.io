@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://reolympia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://reolympia.com/" rel="alternate" type="text/html" /><updated>2016-12-01T22:49:29-08:00</updated><id>https://reolympia.com/</id><title>Re:Olympia</title><subtitle>What&#39;s happening in Olympia, WA</subtitle><entry><title>Olympia Street Art</title><link href="https://reolympia.com/Olympia-Street-Art/" rel="alternate" type="text/html" title="Olympia Street Art" /><published>2016-12-01T04:00:00-08:00</published><updated>2016-12-01T04:00:00-08:00</updated><id>https://reolympia.com/Olympia-Street-Art</id><content type="html" xml:base="https://reolympia.com/Olympia-Street-Art/">&lt;p&gt;Photos taken in and around Olympia.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://reolympia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://reolympia.com/" rel="alternate" type="text/html" /><updated>2016-12-02T13:35:11-08:00</updated><id>https://reolympia.com/</id><title>Re:Olympia</title><subtitle>What&#39;s happening in Olympia, WA</subtitle><entry><title>Olympia Gets a New ISP</title><link href="https://reolympia.com/Olympia-Gets-A-New-ISP/" rel="alternate" type="text/html" title="Olympia Gets a New ISP" /><published>2016-12-02T04:00:00-08:00</published><updated>2016-12-02T04:00:00-08:00</updated><id>https://reolympia.com/Olympia-Gets-A-New-ISP</id><content type="html" xml:base="https://reolympia.com/Olympia-Gets-A-New-ISP/">&lt;p&gt;Have you seen these blue trucks around town?&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Wave&quot; src=&quot;/img/wave1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They are &lt;a href=&quot;wavebroadband.com&quot;&gt;Wave Broadband&lt;/a&gt;, an Internet service provider. I checked their site and they don’t have any service for 85201.&lt;/p&gt;
+
+&lt;p&gt;In excitement as the prospect of a new ISP, I hopped on my bike and flagged down one of their workers. He was troubleshooting a fiber issue, examining this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Wave&quot; src=&quot;/img/wave2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a fiber junction box. One of those cables is capable of delivering 1 terabit per second of traffic. While we’re talking, I contain my excitement about the prospect of residential fiber in Olympia.&lt;/p&gt;
+
+&lt;p&gt;He told me Wave Broadband is coming to Olympia, but will only be delivering fiber speeds to businesses in downtown. He said if there is any leftover bandwidth, it may be opened to residential also. No completion date is announced.&lt;/p&gt;
+
+&lt;p&gt;Wave is an independent ISP, so they’re not contracted with any of the other large ISPs (like Comcast).&lt;/p&gt;
+
+&lt;h2 id=&quot;growing-dissatisfaction-with-olympia-isps&quot;&gt;Growing Dissatisfaction With Olympia ISPs&lt;/h2&gt;
+
+&lt;p&gt;It’s no secret that people all over the country are annoyed with the giant ISPs. Reddit is full of complaints about our options in Olympia:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/2l0cer/internet_only_with_comcast/&quot;&gt;internet_only_with_comcast&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/4h2u4v/new_to_olympia_and_must_have_internet/&quot;&gt;new_to_olympia_and_must_have_internet&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/1u1hk4/lets_talk_isps_which_is_your_favorite_for_home/&quot;&gt;lets_talk_isps_which_is_your_favorite_for_home&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/39vgxy/is_comcast_the_worst_provider_ever_or_the_worst/&quot;&gt;is_comcast_the_worst_provider_ever_or_the_worst&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/42214d/screw_comcast_theres_a_bill_in_the_senate_that_if/&quot;&gt;screw_comcast_theres_a_bill_in_the_senate_that_if&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/taab2/hi_does_anyone_know_the_absolute_cheapest/&quot;&gt;hi_does_anyone_know_the_absolute_cheapest&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/3l2egf/who_is_your_internet_service_provider/&quot;&gt;who_is_your_internet_service_provider&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/3cq49g/we_should_build_our_own_gigabit_network_oly/&quot;&gt;we_should_build_our_own_gigabit_network_oly&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/3z8e4b/what_are_the_best_isps_out_here/&quot;&gt;what_are_the_best_isps_out_here&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/2k5n8x/net_providers_advice/&quot;&gt;net_providers_advice&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/3l7bgz/municipal_broadband_what_are_our_real_options/&quot;&gt;municipal_broadband_what_are_our_real_options&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.reddit.com/r/olympia/comments/4hlpqn/the_question_of_internet_service_comes_up_a_lot/&quot;&gt;the_question_of_internet_service_comes_up_a_lot&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our largest ISP is Comcast, which has been voted worst company of the year multiple times. Customers say the customer service is bad, they cost too much, have shady practices of throttling your traffic, forced Netflix to pay extra, and the connection is not reliable.&lt;/p&gt;
+
+&lt;p&gt;CenturyLink is the other big ISP in Olympia, but the coverage is spotty. At my house they can only bring me 1.5Mbps (despite so many advertisements they send me saying otherwise).&lt;/p&gt;
+
+&lt;p&gt;Let’s hope Wave knows how desperate we are and brings us another option.&lt;/p&gt;</content><author><name>Richee</name></author><summary>Have you seen these blue trucks around town?</summary></entry><entry><title>Olympia Street Art</title><link href="https://reolympia.com/Olympia-Street-Art/" rel="alternate" type="text/html" title="Olympia Street Art" /><published>2016-12-01T04:00:00-08:00</published><updated>2016-12-01T04:00:00-08:00</updated><id>https://reolympia.com/Olympia-Street-Art</id><content type="html" xml:base="https://reolympia.com/Olympia-Street-Art/">&lt;p&gt;Photos taken in and around Olympia.&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   		&lt;div id=&quot;instafeed&quot;&gt;&lt;/div&gt;
