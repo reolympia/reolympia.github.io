@@ -5,6 +5,7 @@ subtitle:   "Ways to give back to the community"
 date:       2016-11-27 12:00:00
 author:     "Richee"
 header-img: "img/bgs/volunteer.jpg"
+comments: 	true
 ---
 If you get out and enjoy some of the great things Olympia has to offer, chances are a volunteer helped make that experience great for you. A great way to help the community flourish and to make friends is to get out and volunteer your time or money. Here is a list of places that could always use an extra volunteer.
 

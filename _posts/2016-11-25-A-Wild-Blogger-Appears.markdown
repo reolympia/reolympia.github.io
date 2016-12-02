@@ -1,10 +1,11 @@
 ---
 layout:     post
 title:      "A Wild Blogger Appears"
-subtitle:   "A new blog relating to Olympia."
+subtitle:   "A new blog about Olympia"
 date:       2016-11-25 12:00:00
 author:     "Richee"
 header-img: "img/post-bg-01.jpg"
+comments: 	true
 ---
 ## Re:Olympia Blog
 Hi! Welcome to the Re:Olympia blog. I'm Richee. The Re:Olympia front page offers aggregated local news, events, and other content. Here in the blog, I'll dive into other Olympia finds and curiosities. 

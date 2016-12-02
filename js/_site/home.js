@@ -125,7 +125,7 @@ if (!dev) {
 	// Get weather
 
 	$.ajax({
-	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP73.json",
+	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP8.json",
 	    dataType : "jsonp",
 	    success : function(parsed_json) {
 	        var temp = parsed_json['current_observation']['temp_f'];
@@ -157,8 +157,5 @@ if (!dev) {
 	        $('#obtime').html(obtime);
 	    }
 	});
-
-
-
 
 }
