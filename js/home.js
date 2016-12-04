@@ -1,30 +1,12 @@
 var dev = false;
 
-// https://rss2json.com/api.json?rss_url=http%3A%2F%2Fcapitolympia.tumblr.com%2Frss
-// https://rss2json.com/api.json?rss_url=http%3A%2F%2Folyblog.net%2Frss.xml
-// https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.olympiatime.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss
-// https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.olysketcher.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss
-// https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.olympiapoprocks.com%2Fopr-blog%3Fformat%3DRSS
-// https://rss2json.com/api.json?rss_url=https%3A%2F%2Fwriterobwrite.com%2Ffeed%2F
-// https://rss2json.com/api.json?rss_url=http%3A%2F%2Fkenbalsley.com%2Ffeed%2F
-
-
-
-// http://capitolympia.tumblr.com/rss
-// http://olyblog.net/rss.xml
-// http://www.olympiatime.com/feeds/posts/default?alt=rss
-// http://www.olysketcher.com/feeds/posts/default?alt=rss
-// http://www.olympiapoprocks.com/opr-blog?format=RSS
-// https://writerobwrite.com/feed/
-// http://kenbalsley.com/feed/
-
 
 if (!dev) {
 
 	// Get local news from The Olympian
 	var theOlympianURL = 'https://rss2json.com/api.json?rss_url=http%3A%2F%2Fwww.theolympian.com%2Fnews%2Flocal%2F%3FwidgetName%3Drssfeed%26widgetContentId%3D712015';
 	$.get(theOlympianURL, function (data) {
-	    $(data.items.slice(0,5)).each(function (i, post) { // or "item" or whatever suits your feed
+	    $(data.items.slice(0,5)).each(function (i, post) { 
 	        var el = $(this);
 	        var story = new Object();
 		    $('.theOlympian').append('<a href="'+post.link+'" class="list-group-item">'+post.title+'</a>');
@@ -133,6 +115,11 @@ if (!dev) {
 	});	
 
 
+
+
+
+
+
 	// Get weather
 	$.ajax({
 	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP73.json",
@@ -168,6 +155,19 @@ if (!dev) {
 	    }
 	});
 
+	// Get tides
+	$.ajax({
+	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/tide/q/WA/Tacoma.json",
+	    dataType : "jsonp",
+	    success : function(parsed_json) {
+	    	$.each(parsed_json['tide']['tideSummary'].slice(0,6), function (i, tide) {
+	    		var date = new Date(tide.date.epoch);
+	    		var regex = / PST on.*/;
+				var time = tide.date.pretty.replace(regex, "");
+	    		$('.tides').append('<tr><td>'+tide.data.type+'</td><td>'+time+' '+tide.date.mon+'-'+tide.date.mday+'-'+tide.date.year+'</td></tr>');
+			});
+	    }
+	});
 
 
 
