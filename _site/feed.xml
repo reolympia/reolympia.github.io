@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://reolympia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://reolympia.com/" rel="alternate" type="text/html" /><updated>2016-12-04T00:17:15-08:00</updated><id>https://reolympia.com/</id><title>Re:Olympia</title><subtitle>What&#39;s happening in Olympia, WA</subtitle><entry><title>Olympia’s Local Blogs</title><link href="https://reolympia.com/Olympias-Local-Blogs/" rel="alternate" type="text/html" title="Olympia&#39;s Local Blogs" /><published>2016-12-03T04:00:00-08:00</published><updated>2016-12-03T04:00:00-08:00</updated><id>https://reolympia.com/Olympias-Local-Blogs</id><content type="html" xml:base="https://reolympia.com/Olympias-Local-Blogs/">&lt;p&gt;An RSS feed from local blogs.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://reolympia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://reolympia.com/" rel="alternate" type="text/html" /><updated>2016-12-04T09:55:54-08:00</updated><id>https://reolympia.com/</id><title>Re:Olympia</title><subtitle>What&#39;s happening in Olympia, WA</subtitle><entry><title>Olympia’s Local Blogs</title><link href="https://reolympia.com/Olympias-Local-Blogs/" rel="alternate" type="text/html" title="Olympia&#39;s Local Blogs" /><published>2016-12-03T04:00:00-08:00</published><updated>2016-12-03T04:00:00-08:00</updated><id>https://reolympia.com/Olympias-Local-Blogs</id><content type="html" xml:base="https://reolympia.com/Olympias-Local-Blogs/">&lt;p&gt;An RSS feed from local blogs.&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-	&lt;div class=&quot;col-md-12&quot;&gt;
-		&lt;div class=&quot;panel panel-default&quot;&gt;
-		  &lt;div class=&quot;panel-heading&quot;&gt;Local Blogosphere&lt;/div&gt;
+	&lt;div class=&quot;col-xs-12 col-sm-12 col-lg-12 col-md-12&quot;&gt;
 
-		    &lt;table class=&quot;table bloggers&quot;&gt;
-		    &lt;/table&gt;
-		&lt;/div&gt;
+			&lt;table class=&quot;table&quot;&gt;
+                &lt;caption style=&quot;margin-left: 9px&quot;&gt;&lt;strong&gt;Local Blogosphere&lt;/strong&gt;&lt;/caption&gt;
+
+                &lt;tbody class=&quot;bloggers&quot;&gt;
+                &lt;/tbody&gt;
+            &lt;/table&gt;
+
+
 
 	&lt;/div&gt;
 &lt;/div&gt;

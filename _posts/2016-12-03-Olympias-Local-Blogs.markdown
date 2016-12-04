@@ -9,13 +9,16 @@ js: 		"blogosphere.js"
 An RSS feed from local blogs.
 
 <div class="row">
-	<div class="col-md-12">
-		<div class="panel panel-default">
-		  <div class="panel-heading">Local Blogosphere</div>
+	<div class="col-xs-12 col-sm-12 col-lg-12 col-md-12">
 
-		    <table class="table bloggers">
-		    </table>
-		</div>
+			<table class="table">
+                <caption style="margin-left: 9px"><strong>Local Blogosphere</strong></caption>
+
+                <tbody class="bloggers">
+                </tbody>
+            </table>
+
+
 
 	</div>
 </div>
