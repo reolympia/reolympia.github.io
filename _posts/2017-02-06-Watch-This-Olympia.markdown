@@ -23,7 +23,7 @@ Olympia has been known to be featured in many videos. Here are some notable vide
 
 [TedXOlympia](https://www.youtube.com/watch?v=EW7KJu0dF34&feature=youtu.be&list=PLsRNoUx8w3rOAFd27VBlQPehizEkMGVzu) - All 13 talks from the 2015 TedX event
 
-[Henry Rollins tells what it's like to be a performer in Olympia](https://www.youtube.com/watch?v=SnUHqjIDZNs)
+[Henry Rollins tells what its like to be a performer in Olympia](https://www.youtube.com/watch?v=SnUHqjIDZNs)
 
 [Trail bike riding](https://www.youtube.com/watch?v=5NLDX77YJjs)
 
@@ -37,9 +37,9 @@ Olympia has been known to be featured in many videos. Here are some notable vide
 
 [The Human Experiment](https://www.netflix.com/title/80037689) - has some scenes in the Capitol
 
+[Darby's Cafe Restaurant on Diners, Drive-Ins & Dives](http://www.dinersdriveinsdiveslocations.com/darbys-cafe-washington.html)
 
-
-
+[Fish Tale Brew Pub on Diners, Drive-Ins & Dives](http://www.foodnetwork.com/shows/diners-drive-ins-and-dives/16-series/land-to-sea.html) - [$1.99 to watch](https://www.youtube.com/watch?v=fW0Rt4fDdnc)
 
 
 
