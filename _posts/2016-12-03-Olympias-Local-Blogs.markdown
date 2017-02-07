@@ -30,7 +30,7 @@ The table above is a feed of most recent posts from the following blogs:
 * [http://olyblog.net](http://olyblog.net)
 * [http://www.olympiatime.com](http://www.olympiatime.com)
 * [http://www.olysketcher.com](http://www.olysketcher.com)
-* [http://www.olympiapoprocks.com](http://www.olympiapoprocks.com)
+* [http://janineslittlehollywood.blogspot.com/](http://janineslittlehollywood.blogspot.com/)
 * [http://kenbalsley.com](http://kenbalsley.com)
 
 If you blog about Olympia, [let me know](/about/)!
