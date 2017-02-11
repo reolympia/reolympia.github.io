@@ -4,7 +4,7 @@ title:      "Watch This Olympia"
 subtitle:   "We're on Camera!"
 date:       2017-02-06 12:00:00
 author:     "Richee"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/sky.jpg"
 comments: 	true
 ---
 Olympia has been known to be featured in many videos. Here are some notable videos featuring Olympia or filmed in Olympia.
