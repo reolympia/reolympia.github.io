@@ -13,6 +13,7 @@ If you get out and enjoy some of the great things Olympia has to offer, chances 
 * [City of Olympia](http://olympiawa.gov/employment-and-volunteering/volunteer-opportunities.aspx) - Numerous opportunities
 * [City Parks](http://olympiawa.gov/city-services/parks/volunteering.aspx) - Help take care of the parks
 * [Washington Trails Association](https://www.wta.org/volunteer/schedule)
+* [Stream Team](http://www.streamteam.info/)
 * Coach or umpire sporting events
 
 ### People in Need
@@ -22,7 +23,9 @@ If you get out and enjoy some of the great things Olympia has to offer, chances 
 * [Habitat for Humanity](http://spshabitat.org/get-involved/)
 * [Red Cross](http://www.redcross.org/local/washington/volunteer)
 * [Interfaith Works Homeless Shelter](http://interfaith-works.org/volunteer/)
-
+* [SafePlace](http://www.safeplaceolympia.org/volunteer/) - Domestive Violence Relief
+* [Pizza Klatch](http://pizzaklatch.org/get-involved/volunteer/) - Support LGBT youth
+* [StoneWall Youth](http://stonewallyouth.org/support/volunteer/) - Support LGBT youth
 
 ### Helping Children
 * [Community Youth Services](http://www.communityyouthservices.org/)
@@ -37,6 +40,7 @@ If you get out and enjoy some of the great things Olympia has to offer, chances 
 * [G.R.U.B.](http://goodgrub.org/) - Help grow food
 * [Nature Nutures Farm](http://www.naturenurturesfarm.org/Get_Involved_XT6L.html) - Animal Sanctuary
 * [Olympia Joint Animal Services](http://jointanimalservices.org/volunteer/)
+* [For Heaven's Sake](http://www.fhswildliferehab.org/volunteer.html) - Animal Rescue
 
 ### Fun Stuff You Normally Do
 * [Harlequin Productions](http://harlequinproductions.org/volunteers/) - Get to see a free show by volunteering
