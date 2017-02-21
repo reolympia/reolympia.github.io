@@ -7,6 +7,7 @@
   margin: 200px 0 0;
 }
 
+/* Bullet lists in posts didn't have an underline on links. This fixes it. */
 li > a {
 	text-decoration: underline; 
 }

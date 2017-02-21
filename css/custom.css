@@ -1,4 +1,4 @@
-.clickable-row {
+.zzzzclickable-row {
   font-size: 48px;
   line-height: 1.1;
   display: block;
@@ -6,3 +6,10 @@
   font-weight: 300;
   margin: 200px 0 0;
 }
+
+/* Bullet lists in posts didn't have an underline on links. This fixes it. */
+li > a {
+	text-decoration: underline; 
+}
+
+
