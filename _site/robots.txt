@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /pages/minutes/
+Disallow: /pages/membership/
+Disallow: /public/docs/
