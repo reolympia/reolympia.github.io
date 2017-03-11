@@ -11,7 +11,7 @@ Have you seen these blue trucks around town?
 
 <img alt="Wave" src="/img/wave1.jpg">
 
-They are [Wave Broadband](wavebroadband.com), an Internet service provider. I checked their site and they don't have any service for 85201.
+They are [Wave Broadband](http://wavebroadband.com), an Internet service provider. I checked their site and they don't have any service for 98501.
 
 In excitement as the prospect of a new ISP, I hopped on my bike and flagged down one of their workers. He was troubleshooting a fiber issue, examining this:
 

@@ -67,15 +67,17 @@ There are lots of fun things to go do in Olympia. If you go do them enough, you'
 ### 5. Go Learn Something
 Remember how easy it was to make friends in school? Well guess what, you can still go back to school! Here are some ideas:
 
+* The Timberland Library is always holding free workshops and classes even for teens and adults. To find out what's going on there it's best to go in and check their bulletin boards.
 * [Arbutus Folk School](http://www.arbutusfolkschool.org/) teaches:
     * Woodworking
     * Blacksmithing
     * Ceramics
     * Sewing - embroidering, spinning, draping
 
-* Olympia has two letter presses that are willing to teach you how to do it    
+* Olympia has three letter presses that are willing to teach you how to do it    
     * [Pope Press](https://www.facebook.com/popepress/)    
     * [The Sherwood Press](https://thesherwoodpress.wordpress.com/)
+    * [Community Print](https://www.facebook.com/groups/275217347972/events/)
 
 * Take a class at [SPSCC](https://spscc.edu/)
     * Birdwatching

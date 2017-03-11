@@ -11,5 +11,7 @@
 li > a {
 	text-decoration: underline; 
 }
-
+.navlink {
+	text-decoration: none; 
+}
 
