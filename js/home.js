@@ -139,6 +139,8 @@ if (!dev) {
 	        var vis = parsed_json['current_observation']['visibility_mi'];
 	        var forecast = parsed_json['current_observation']['forecast_url'];
 	        var obtime = parsed_json['current_observation']['observation_time'];
+	        icon = icon.replace("http","https");
+
 	        $('#temp').html(temp + "&deg; F");
 	        $('#icon').html(iconName+" <img src='"+icon+"'>");
 	        $('#winddir').html(winddir);
