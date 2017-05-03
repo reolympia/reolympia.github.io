@@ -140,7 +140,7 @@ if (!dev) {
 	        var forecast = parsed_json['current_observation']['forecast_url'];
 	        var obtime = parsed_json['current_observation']['observation_time'];
 	        icon = icon.replace("http","https");
-
+	        console.log(icon);
 	        $('#temp').html(temp + "&deg; F");
 	        $('#icon').html(iconName+" <img src='"+icon+"'>");
 	        $('#winddir').html(winddir);
