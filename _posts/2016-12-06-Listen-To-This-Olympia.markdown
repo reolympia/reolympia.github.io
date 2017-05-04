@@ -72,6 +72,12 @@ These are either set in or produced in the Pacific Northwest but not Olympia.
 
 <i class="fa fa-volume-up" aria-hidden="true"></i> [KBRD 680AM](http://kbrd.org/) goes way back and plays songs older than oldies music.
 
+
+#### KNKX 90.1
+KPLI is licensed and broadcast in Olympia. It is rebroadcasting KNKX which is NPR / Plublic Radio / Jazz.
+
+<i class="fa fa-volume-up" aria-hidden="true"></i> [KNKX 90.1](http://knkx.org/)
+
 #### KGY 95.3 / KAYO 96.9
 
 These stations have a studio right in Port of Olympia.
@@ -96,6 +102,13 @@ Studio is in downtown Olympia.
 #### 1030AM KMAS
 
 <i class="fa fa-volume-up" aria-hidden="true"></i> [1030AM KMAS](http://www.ifiberonenewsradio.com/radio/) - Talk Radio from Shelton
+
+
+#### KOMO Newsradio 97.7
+
+Not located in Olympia. News radio for Seattle/Tacoma/Olympia.
+<i class="fa fa-volume-up" aria-hidden="true"></i> [KOMO 97.7](http://komonews.com/) 
+
 
 
 
