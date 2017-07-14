@@ -19,9 +19,17 @@ A podcast which interviews unique and intereting locals.
 
 <i class="fa fa-volume-up" aria-hidden="true"></i> [http://www.olympiapoprocks.com/podcasts/](http://www.olympiapoprocks.com/podcasts/)
 
-OlyPopRocks also hosts the **[StoryOly](http://amyorca.wixsite.com/storyoly)** podcast. This is the recordings from the open mic event that takes place monthly at Rhythm & Rye.
+#### Story Oly
+
+This is the recordings from the open mic event that takes place monthly at Rhythm & Rye which features local people telling stories.
 
 <i class="fa fa-volume-up" aria-hidden="true"></i> [http://www.olympiapoprocks.com/storyoly/](http://www.olympiapoprocks.com/storyoly/)
+
+
+#### OlyArts Podcast
+<i class="fa fa-volume-up" aria-hidden="true"></i> [http://olyarts.org/podcast/](http://olyarts.org/podcast/)
+
+Covering many things relating to Olympia. Food, art, current events.
 
 #### Coffee With Ken
 
@@ -34,6 +42,11 @@ Ken Balsley interviews a new person each week.
 A parenting podcast made locally, appreicated globally.
 
 <i class="fa fa-volume-up" aria-hidden="true"></i> [http://evolving-parents.com/category/podcasts/](http://evolving-parents.com/category/podcasts/)
+
+#### Station Wagon
+<i class="fa fa-volume-up" aria-hidden="true"></i> [http://www.wagonpod.com](http://www.wagonpod.com)
+
+A podcast made in Olympia about giving things up like slouching, sitting, or apologizing.
 
 #### Thurston County Scanner
 
