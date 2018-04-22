@@ -113,8 +113,6 @@ These are some frequencies that have chatter but you may not broadcast on.
 	<tr><td>467.925</td><td>Mall-S</td></tr>
 	<tr><td>464.775</td><td>Mall-M</td></tr>
 	<tr><td>153.545</td><td>PSE-OP</td></tr>
-	<tr><td>145.470</td><td>CAPLPK</td></tr>
-	<tr><td>440.500</td><td>?</td></tr>
 	<tr><td>145.230</td><td>PLO-AL</td></tr>
 </table>
 
