@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://reolympia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://reolympia.com/" rel="alternate" type="text/html" /><updated>2017-07-14T16:20:04-07:00</updated><id>https://reolympia.com/</id><title>Re:Olympia</title><subtitle>What&#39;s happening in Olympia, WA</subtitle><entry><title>Where to Meet People</title><link href="https://reolympia.com/Where-To-Meet-People/" rel="alternate" type="text/html" title="Where to Meet People" /><published>2017-02-20T21:00:00-08:00</published><updated>2017-02-20T21:00:00-08:00</updated><id>https://reolympia.com/Where-To-Meet-People</id><content type="html" xml:base="https://reolympia.com/Where-To-Meet-People/">&lt;p&gt;Once we are no longer in school, meeting new friends becomes more difficult. I often hear the question “Where can I meet new people in Olympia?” Here are some places and ideas you can use to go find new friends.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://reolympia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://reolympia.com/" rel="alternate" type="text/html" /><updated>2018-04-21T20:05:50-07:00</updated><id>https://reolympia.com/</id><title>Re:Olympia</title><subtitle>What&#39;s happening in Olympia, WA</subtitle><entry><title>HAM Radio Stations in Olympia</title><link href="https://reolympia.com/HAM-Radio-Stations-In-Olympia/" rel="alternate" type="text/html" title="HAM Radio Stations in Olympia" /><published>2018-04-20T22:00:00-07:00</published><updated>2018-04-20T22:00:00-07:00</updated><id>https://reolympia.com/HAM-Radio-Stations-In-Olympia</id><content type="html" xml:base="https://reolympia.com/HAM-Radio-Stations-In-Olympia/">&lt;h3 id=&quot;repeaters-around-olympia&quot;&gt;Repeaters around Olympia&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;Freq&lt;/td&gt;&lt;td&gt;Offset&lt;/td&gt;&lt;td&gt;Tone in/out&lt;/td&gt;&lt;td&gt;Location&lt;/td&gt;&lt;/tr&gt;
+		
+&lt;tr&gt;&lt;td&gt;145.1500&lt;/td&gt;&lt;td&gt;-0.6 MHz&lt;/td&gt;&lt;td&gt;103.5	&lt;/td&gt;&lt;td&gt;Olympia	Thurston&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;145.4700&lt;/td&gt;&lt;td&gt;-0.6 MHz&lt;/td&gt;&lt;td&gt;100.0	&lt;/td&gt;&lt;td&gt;Olympia, Capitol Peak&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;146.7800&lt;/td&gt;&lt;td&gt;-0.6 MHz&lt;/td&gt;&lt;td&gt;156.7	&lt;/td&gt;&lt;td&gt;Olympia	Thurston&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;147.3600&lt;/td&gt;&lt;td&gt;+0.6 MHz&lt;/td&gt;&lt;td&gt;103.5	&lt;/td&gt;&lt;td&gt;Olympia, water tower (OARS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;224.4600&lt;/td&gt;&lt;td&gt;+0.6 MHz&lt;/td&gt;&lt;td&gt;103.5	&lt;/td&gt;&lt;td&gt;Olympia (OARS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;440.5000&lt;/td&gt;&lt;td&gt;+5 MHz	&lt;/td&gt;&lt;td&gt;110.9 / 110.9&lt;/td&gt;&lt;td&gt;Olympia, Capitol Peak&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;441.4000&lt;/td&gt;&lt;td&gt;+5 MHz	&lt;/td&gt;&lt;td&gt;103.5	&lt;/td&gt;&lt;td&gt;Tenino, Crawford Mountain (OARS)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;443.0750&lt;/td&gt;&lt;td&gt;+5 MHz	&lt;/td&gt;&lt;td&gt;103.5	&lt;/td&gt;&lt;td&gt;Olympia	Thurston&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;443.8000&lt;/td&gt;&lt;td&gt;+5 MHz	&lt;/td&gt;&lt;td&gt;146.2	&lt;/td&gt;&lt;td&gt;Olympia	Thurston&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;444.9500&lt;/td&gt;&lt;td&gt;+5 MHz	&lt;/td&gt;&lt;td&gt;118.8	&lt;/td&gt;&lt;td&gt;Olympia, Capitol Peak&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;927.3000&lt;/td&gt;&lt;td&gt;-25 MHz&lt;/td&gt;&lt;td&gt;114.8 / 114.8&lt;/td&gt;&lt;td&gt;Olympia, Capitol Peak&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.repeaterbook.com/repeaters/location_search.php?state_id=53&amp;amp;type=city&amp;amp;loc=Olympia&quot;&gt;RepeaterBook&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;olympia-amature-radio-society-oars&quot;&gt;Olympia Amature Radio Society (OARS)&lt;/h3&gt;
+&lt;p&gt;Want to talk to other radio operaters in Olympia? Check out OARS. You can find OARS members online at 7:00pm every Tuesday on the OARS repeaters. Guests are welcome, or just listen in if you prefer.&lt;/p&gt;
+
+&lt;p&gt;https://olyham.blogspot.com/&lt;/p&gt;
+
+&lt;h3 id=&quot;simplex-frequencies&quot;&gt;Simplex Frequencies&lt;/h3&gt;
+
+&lt;p&gt;If you have a HAM radio license, you may broadcast on these frequencies. Use these frequencies for radio to radio transmission. No repeater needed.&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;&lt;td&gt;Freq&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;146.52&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;146.535&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;146.55&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;146.565&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;146.595&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;147.42&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;147.435&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;147.48&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;446.0&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;non-broadcastable-channels&quot;&gt;Non-Broadcastable Channels&lt;/h3&gt;
+
+&lt;p&gt;These are some frequencies that have chatter but you may not broadcast on.&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;&lt;td&gt;Freq&lt;/td&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;162.475&lt;/td&gt;&lt;td&gt;NOAA (weather)&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.430&lt;/td&gt;&lt;td&gt;Fire DSP&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.370&lt;/td&gt;&lt;td&gt;Fire Olympia Fire Department&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;440.400&lt;/td&gt;&lt;td&gt;Fire Tenino Fire Department&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.010&lt;/td&gt;&lt;td&gt;Fire NEC&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.175&lt;/td&gt;&lt;td&gt;Fire SWC&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;153.830&lt;/td&gt;&lt;td&gt;Fire STA&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.400&lt;/td&gt;&lt;td&gt;Fire TC9&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.190&lt;/td&gt;&lt;td&gt;Fire TC4&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;855.162&lt;/td&gt;&lt;td&gt;Fire EMS&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.295&lt;/td&gt;&lt;td&gt;Fire EMS&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;129.825&lt;/td&gt;&lt;td&gt;Fire EMS&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;151.625&lt;/td&gt;&lt;td&gt;Fire EMS&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.145&lt;/td&gt;&lt;td&gt;Fire EMS&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.545&lt;/td&gt;&lt;td&gt;Law Enforcement Sheriff&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.800&lt;/td&gt;&lt;td&gt;Law Enforcement Sheriff&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;156.145&lt;/td&gt;&lt;td&gt;Law Enforcement TDP&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.010&lt;/td&gt;&lt;td&gt;Law Enforcement TDP&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.875&lt;/td&gt;&lt;td&gt;Law Enforcement Police Department&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.280&lt;/td&gt;&lt;td&gt;Law Enforcement&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;435.275&lt;/td&gt;&lt;td&gt;Law Enforcement&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;158.850&lt;/td&gt;&lt;td&gt;Law Enforcement Olympia Police Department&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;166.635&lt;/td&gt;&lt;td&gt;Law Enforcement NIS&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.415&lt;/td&gt;&lt;td&gt;Law Enforcement Yelm&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.920&lt;/td&gt;&lt;td&gt;Law Enforcecment WSP&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.460&lt;/td&gt;&lt;td&gt;Law Enforcecment WSP&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;453.525&lt;/td&gt;&lt;td&gt;Local Channel&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;453.975&lt;/td&gt;&lt;td&gt;Local Channel&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;121.100&lt;/td&gt;&lt;td&gt;Airport&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;121.600&lt;/td&gt;&lt;td&gt;Airport&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;122.945&lt;/td&gt;&lt;td&gt;Airport&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;124.400&lt;/td&gt;&lt;td&gt;Airport&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;135.725&lt;/td&gt;&lt;td&gt;Aiport&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;290.900&lt;/td&gt;&lt;td&gt;Airport&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;151.460&lt;/td&gt;&lt;td&gt;Evergreen&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.685&lt;/td&gt;&lt;td&gt;Evergreen&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;156.045&lt;/td&gt;&lt;td&gt;Evergreen&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;151.805&lt;/td&gt;&lt;td&gt;School&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;151.945&lt;/td&gt;&lt;td&gt;School&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;154.540&lt;/td&gt;&lt;td&gt;School&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;157.560&lt;/td&gt;&lt;td&gt;School&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;153.020&lt;/td&gt;&lt;td&gt;SPSCC&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;155.820&lt;/td&gt;&lt;td&gt;SPSCC&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;157.740&lt;/td&gt;&lt;td&gt;STPETR&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;467.925&lt;/td&gt;&lt;td&gt;Mall-S&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;464.775&lt;/td&gt;&lt;td&gt;Mall-M&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;153.545&lt;/td&gt;&lt;td&gt;PSE-OP&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;145.470&lt;/td&gt;&lt;td&gt;CAPLPK&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;440.500&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;145.230&lt;/td&gt;&lt;td&gt;PLO-AL&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Richee</name></author><summary>Repeaters around Olympia</summary></entry><entry><title>Where to Meet People</title><link href="https://reolympia.com/Where-To-Meet-People/" rel="alternate" type="text/html" title="Where to Meet People" /><published>2017-02-20T21:00:00-08:00</published><updated>2017-02-20T21:00:00-08:00</updated><id>https://reolympia.com/Where-To-Meet-People</id><content type="html" xml:base="https://reolympia.com/Where-To-Meet-People/">&lt;p&gt;Once we are no longer in school, meeting new friends becomes more difficult. I often hear the question “Where can I meet new people in Olympia?” Here are some places and ideas you can use to go find new friends.&lt;/p&gt;
 
 &lt;h3 id=&quot;quick-tips-for-making-friends&quot;&gt;Quick Tips for Making Friends&lt;/h3&gt;
 &lt;p&gt;Before we go over where to meet people, let’s first go over a few tips on how to make friends.&lt;/p&gt;
