@@ -122,7 +122,7 @@ if (!dev) {
 
 	// Get weather
 	$.ajax({
-	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP109.json",
+	    url : "https://api.wunderground.com/api/5bdfb82dd593406e/conditions/q/pws:KWAOLYMP210.json",
 	    dataType : "jsonp",
 	    success : function(parsed_json) {
 	        var temp = parsed_json['current_observation']['temp_f'];
