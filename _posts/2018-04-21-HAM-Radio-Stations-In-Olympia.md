@@ -98,7 +98,7 @@ These are some frequencies that have chatter but you may not broadcast on.
 	<tr><td>121.600</td><td>Airport</td></tr>
 	<tr><td>122.945</td><td>Airport</td></tr>
 	<tr><td>124.400</td><td>Airport</td></tr>
-	<tr><td>135.725</td><td>Aiport</td></tr>
+	<tr><td>135.725</td><td>Airport</td></tr>
 	<tr><td>290.900</td><td>Airport</td></tr>
 	<tr><td>151.460</td><td>Evergreen</td></tr>
 	<tr><td>155.685</td><td>Evergreen</td></tr>
