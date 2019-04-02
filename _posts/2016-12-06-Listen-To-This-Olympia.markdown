@@ -13,11 +13,24 @@ There are a surprising amount of podcasts and radio shows that are created right
 
 ## Podcasts
 
+
+
+
+
 #### OlyPopRocks
 
 A podcast which interviews unique and intereting locals.
 
 <i class="fa fa-volume-up" aria-hidden="true"></i> [http://www.olympiapoprocks.com/podcasts/](http://www.olympiapoprocks.com/podcasts/)
+
+
+#### Welcome to Olympia
+
+Wonderfully created show diving into what makes Olympia great.
+
+<i class="fa fa-volume-up" aria-hidden="true"></i> [https://www.welcometoolympia.com/](https://www.welcometoolympia.com/)
+
+
 
 #### Story Oly
 
