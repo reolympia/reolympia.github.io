@@ -3,7 +3,7 @@ layout:     post
 title:      "Best Scenic Lookouts"
 subtitle:   "In and around Olympia WA"
 date:       2020-05-05 05:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/lake.jpg"
 comments: 	true
 ---

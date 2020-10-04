@@ -3,7 +3,7 @@ layout:     post
 title:      "Where to Meet People"
 subtitle:   "Making friends in Olympia"
 date:       2017-02-21 05:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/olyart.png"
 comments: 	true
 ---

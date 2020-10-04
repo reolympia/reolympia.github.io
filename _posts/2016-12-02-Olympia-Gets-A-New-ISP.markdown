@@ -3,7 +3,7 @@ layout:     post
 title:      "Olympia Gets a New ISP"
 subtitle:   ""
 date:       2016-12-02 12:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/sky.jpg"
 comments: 	true
 ---

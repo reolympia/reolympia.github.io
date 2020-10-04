@@ -3,7 +3,7 @@ layout:     post
 title:      "Olympia Street Art"
 subtitle:   ""
 date:       2016-12-01 12:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/olyart.png"
 comments: 	true
 js: 		"olyart.js"

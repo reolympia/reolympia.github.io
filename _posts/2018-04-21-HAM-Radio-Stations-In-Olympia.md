@@ -3,7 +3,7 @@ layout:     post
 title:      "HAM Radio Stations in Olympia"
 subtitle:   "Repeaters and Frequencies"
 date:       2018-04-21 05:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/olyart.png"
 comments: 	true
 ---

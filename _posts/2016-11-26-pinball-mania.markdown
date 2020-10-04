@@ -3,7 +3,7 @@ layout:     post
 title:      "Pinball Mania"
 subtitle:   "Olympia's surprising supply of pinball machines"
 date:       2016-11-26
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/pinball-bg.jpg"
 comments: 	true
 ---

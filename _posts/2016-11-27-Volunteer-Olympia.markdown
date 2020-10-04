@@ -3,7 +3,7 @@ layout:     post
 title:      "Volunteer in Olympia"
 subtitle:   "Ways to give back to the community"
 date:       2016-11-27 12:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/volunteer.jpg"
 comments: 	true
 ---

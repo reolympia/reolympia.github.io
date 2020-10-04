@@ -2,7 +2,7 @@
 layout:     post
 title:      "Olympia's Local Blogs"
 date:       2016-12-03 12:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/sky.jpg"
 js: 		"blogosphere.js"
 ---

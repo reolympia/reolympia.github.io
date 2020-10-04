@@ -3,7 +3,7 @@ layout:     post
 title:      "Listen to This Olympia!"
 subtitle:   "Podcasts and Radio made in Olympia"
 date:       2016-12-06 12:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/olyart.png"
 comments: 	true
 ---

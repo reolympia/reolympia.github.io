@@ -3,7 +3,7 @@ layout:     post
 title:      "Watch This Olympia"
 subtitle:   "We're on Camera!"
 date:       2017-02-06 12:00:00
-author:     "Richee"
+author:     "ReOlympia"
 header-img: "img/bgs/sky.jpg"
 comments: 	true
 ---
